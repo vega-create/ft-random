@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current random recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem;"><div style="padding: 0.6rem; background: #dbeafe; border-radius: 8px; text-align: center; border: 1px solid #93c5fd; font-size: 0.75rem;"><div style="font-size: 0.9rem;">🌤️</div><b style="color: #1e40af;">Weather</b></div><div style="padding: 0.6rem; background: #dcfce7; border-radius: 8px; text-align: center; border: 1px solid #86efac; font-size: 0.75rem;"><div style="font-size: 0.9rem;">📈</div><b style="color: #166534;">Markets</b></div><div style="padding: 0.6rem; background: #fef3c7; border-radius: 8px; text-align: center; border: 1px solid #fde68a; font-size: 0.75rem;"><div style="font-size: 0.9rem;">🧬</div><b style="color: #92400e;">Genetics</b></div><div style="padding: 0.6rem; background: #ede9fe; border-radius: 8px; text-align: center; border: 1px solid #c4b5fd; font-size: 0.75rem;"><div style="font-size: 0.9rem;">🎰</div><b style="color: #6d28d9;">Lottery</b></div></div>
 Randomness is everywhere, from the quantum level to human society. Understanding its role helps us make better decisions and appreciate the world around us.
 
 ## In Nature

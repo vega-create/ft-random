@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current random recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Two Dice — Most Likely Sums</div><div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.3rem;"><div style="padding: 0.4rem; background: #dbeafe; border-radius: 6px; text-align: center; font-size: 0.7rem;"><b>2</b><br>2.8%</div><div style="padding: 0.4rem; background: #93c5fd; border-radius: 6px; text-align: center; font-size: 0.7rem;"><b>5</b><br>11.1%</div><div style="padding: 0.4rem; background: #3b82f6; border-radius: 6px; text-align: center; font-size: 0.7rem; color: white;"><b>7</b><br>16.7%</div><div style="padding: 0.4rem; background: #93c5fd; border-radius: 6px; text-align: center; font-size: 0.7rem;"><b>9</b><br>11.1%</div><div style="padding: 0.4rem; background: #dbeafe; border-radius: 6px; text-align: center; font-size: 0.7rem;"><b>11</b><br>5.6%</div><div style="padding: 0.4rem; background: #eff6ff; border-radius: 6px; text-align: center; font-size: 0.7rem;"><b>12</b><br>2.8%</div></div></div>
 Dice are one of the oldest tools for generating randomness, dating back over 5000 years. Understanding dice probability helps with games, statistics, and probability theory.
 
 ## Single Die Probabilities

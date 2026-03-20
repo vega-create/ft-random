@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current random recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem;"><div style="padding: 0.7rem; background: #dbeafe; border-radius: 10px; text-align: center; border: 1px solid #93c5fd;"><div style="font-weight: 700; color: #1e40af; font-size: 0.8rem;">PRNG</div><div style="font-size: 0.65rem; color: #6b7280;">Algorithm</div><div style="font-size: 0.65rem; color: #3b82f6;">Fast, games</div></div><div style="padding: 0.7rem; background: #dcfce7; border-radius: 10px; text-align: center; border: 1px solid #86efac;"><div style="font-weight: 700; color: #166534; font-size: 0.8rem;">CSPRNG</div><div style="font-size: 0.65rem; color: #6b7280;">Secure algo</div><div style="font-size: 0.65rem; color: #16a34a;">Crypto</div></div><div style="padding: 0.7rem; background: #fef3c7; border-radius: 10px; text-align: center; border: 1px solid #fde68a;"><div style="font-weight: 700; color: #92400e; font-size: 0.8rem;">TRNG</div><div style="font-size: 0.65rem; color: #6b7280;">Hardware</div><div style="font-size: 0.65rem; color: #b45309;">Lotteries</div></div></div>
 Random number generation is fundamental to computing, security, and simulations. But computers are deterministic machines, so how do they produce randomness?
 
 ## Pseudo-Random vs True Random
